@@ -26,11 +26,11 @@ namespace UzoeziOkorozeLab1
 
         // Define constant
         const int F_RATE = 1000;
-        const double F_RATE_R = 6.00;
+        const double F_RATE_R = 60.00;
         const double A_RATE_R = 0.052;
         const double F_RATE_C = 60.00;
         const double A_RATE_C = 0.045;
-        const double F_PEAK_I = 76.00;
+        const double F_PEAK_I = 100.00;
         const double A_PEAK_I = 0.065;
         const double F_offPEAK_I = 40.00;
         const double A_offPEAK_I = 0.028;
