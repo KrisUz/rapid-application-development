@@ -1,0 +1,6 @@
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\CustomerData\obj\Debug\CustomerData.pdb

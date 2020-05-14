@@ -1,0 +1,50 @@
+C:\Users\591472\source\repos\UzoeziOkorozeLab1\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.exe.config
+C:\Users\591472\source\repos\UzoeziOkorozeLab1\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.exe
+C:\Users\591472\source\repos\UzoeziOkorozeLab1\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.pdb
+C:\Users\591472\source\repos\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csprojAssemblyReference.cache
+C:\Users\591472\source\repos\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.frmUtilityBill.resources
+C:\Users\591472\source\repos\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.Properties.Resources.resources
+C:\Users\591472\source\repos\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csproj.GenerateResource.cache
+C:\Users\591472\source\repos\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csproj.CoreCompileInputs.cache
+C:\Users\591472\source\repos\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.exe
+C:\Users\591472\source\repos\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.pdb
+C:\Users\591472\Desktop\UzoeziOkorozeLab1\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.exe.config
+C:\Users\591472\Desktop\UzoeziOkorozeLab1\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.exe
+C:\Users\591472\Desktop\UzoeziOkorozeLab1\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.pdb
+C:\Users\591472\Desktop\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csprojAssemblyReference.cache
+C:\Users\591472\Desktop\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.frmUtilityBill.resources
+C:\Users\591472\Desktop\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.Properties.Resources.resources
+C:\Users\591472\Desktop\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csproj.GenerateResource.cache
+C:\Users\591472\Desktop\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csproj.CoreCompileInputs.cache
+C:\Users\591472\Desktop\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.exe
+C:\Users\591472\Desktop\UzoeziOkorozeLab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.pdb
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab1\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.exe.config
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab1\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.exe
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab1\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.pdb
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csprojAssemblyReference.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.frmUtilityBill.resources
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.Properties.Resources.resources
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csproj.GenerateResource.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csproj.CoreCompileInputs.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.exe
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.pdb
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.exe.config
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.exe
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.pdb
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csprojAssemblyReference.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab2.frmUtilityBill.resources
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.Properties.Resources.resources
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csproj.GenerateResource.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csproj.CoreCompileInputs.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.exe
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.pdb
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2 - 1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csprojAssemblyReference.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2 - 1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.frmUtilityBill.resources
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2 - 1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.Properties.Resources.resources
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2 - 1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csproj.GenerateResource.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2 - 1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.csproj.CoreCompileInputs.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2 - 1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.exe
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2 - 1\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.pdb
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2 - 1\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.exe.config
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2 - 1\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.exe
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2 - 1\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.pdb

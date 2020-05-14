@@ -1,0 +1,10 @@
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab2.csprojAssemblyReference.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.Properties.Resources.resources
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab2.csproj.GenerateResource.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab2.csproj.CoreCompileInputs.cache
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.exe
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab1.pdb
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.exe.config
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.exe
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\bin\Debug\UzoeziOkorozeLab1.pdb
+C:\Users\591472\Desktop\UzoeziOkoroze_CPRG200_Lab2\UzoeziOkorozeLab1\obj\Debug\UzoeziOkorozeLab2.frmUtilityBill.resources
